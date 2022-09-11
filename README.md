@@ -1,4 +1,4 @@
-# EEG_N400
+# EEG_N400_fieldtrip
 The project is about EEG Event Related Potential N400 Experiment about processing the language.
 The sentences are given word by word to the participant with an experiment computer in a dark room, and eeg signals are recorded.
 Last word of first sentence is an appropriate for whole sentence, but in second sentence the last word is not meaningful. 
